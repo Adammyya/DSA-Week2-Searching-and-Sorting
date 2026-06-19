@@ -3,7 +3,7 @@
 ## Student Details
 - Name: Adamya Pandey
 - Course: B.Tech CSE (AI & ML)
-- Semester: 3rd Year (Update if needed)
+-Roll no: 240492153009
 
 ## Programs
 
