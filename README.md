@@ -1,4 +1,4 @@
-# Week 2 DSA Lab Assignment
+# Week 2 Module
 
 ## Student Details
 - Name: Adamya Pandey
